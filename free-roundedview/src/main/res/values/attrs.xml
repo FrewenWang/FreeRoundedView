@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundedView">
+        <attr name="halfRounded" format="boolean" />
+        <attr name="adjustRoundedSize" format="boolean" />
+        <attr name="roundedWidth" format="dimension|fraction" />
+        <attr name="roundedHeight" format="dimension|fraction" />
+        <attr name="borderedWidth" format="dimension" />
+        <attr name="borderedColor" format="color|integer|reference" />
+    </declare-styleable>
+
+</resources>
